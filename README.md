@@ -1,6 +1,5 @@
 # WIT-CMU
-Vehicle Interior Safety System - IoT Project 
-Collaboration by WIT and CMU. 
+Vehicle Interior Safety System - IoT Project | Collaboration by WIT and CMU. 
 
 # Team
 Beatrice Smetana ｜ Loti Ibrahimi ｜ Justin Lizotte
