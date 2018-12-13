@@ -4,7 +4,7 @@ Vehicle Interior Monitoring System - IoT Project | Collaboration WIT and CMU.
 # Team
 Beatrice Smetana (CMU) ｜ Loti Ibrahimi (WIT) ｜ Justin Lizotte (CMU)
 
-We worked on a Vehicle Interior Monitoring System to prevent chidren being left behind in dangerous situations with the parent not being in range. This can be very dangerous especially in some warmer countries, and has resulted in many fatalities each year, with children primarily under the age of 3. The cause usually being heatstrokes.
+We worked on a Vehicle Interior Monitoring System to prevent chidren being left behind in dangerous situations with the parent not being in range. This can be very dangerous especially in some warmer countries, and has resulted in many fatalities each year with children primarily under the age of 3. The cause usually being heatstrokes.
 
 # Tools/Software
 ## Raspberry pi
