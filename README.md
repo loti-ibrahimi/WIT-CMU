@@ -18,3 +18,4 @@ Wia powers the future of the Internet of Things by enabling devices to communica
 
 # Video Demos
 Main Concept https://drive.google.com/drive/folders/1eVO0eK2LO3d8G8UD_bFhKNIJae0kcVNS
+Bluetooth Proximity Demo https://youtu.be/BnnFWWgy-DE
