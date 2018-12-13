@@ -15,3 +15,6 @@ We are using a raspberry pi (to act as the car), which is the core of all events
 
 ## Wia.io
 Wia powers the future of the Internet of Things by enabling devices to communicate with one another in a simple, easy way. We are handling all functions within a single python script and determining severity of the sitation under different conditions, then publishing one event to Wia (Alert = 'Unsafe') which, with the use of Wias Flow Builder, allow for notifications to be sent to guardian. We decided to simply go with email alerts. 
+
+# Video Demos
+Main Concept https://drive.google.com/drive/folders/1eVO0eK2LO3d8G8UD_bFhKNIJae0kcVNS
