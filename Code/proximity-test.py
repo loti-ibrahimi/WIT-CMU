@@ -13,7 +13,7 @@ import bluetooth
 import time
 
 wia = Wia()
-wia.access_token = "d_sk_APtVoYG6uaLRqQOJzHlhJfAO" # Wia secret key.
+wia.access_token = "" # Wia secret key.
 
 print ("Proximity Check")
 
