@@ -44,7 +44,7 @@ burn_in_data = []
 buzzer = Buzzer(13)
 
 wia = Wia()
-wia.access_token = "d_sk_gcivxeyYB2F3ZjT88GszHkt6" #Access token
+wia.access_token = "" #Access token
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM) # to use Raspberry Pi board pin numbers
