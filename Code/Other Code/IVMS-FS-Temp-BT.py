@@ -8,7 +8,7 @@ import time
 # Wia Setup
 from wia import Wia
 wia = Wia()
-wia.access_token = "d_sk_APtVoYG6uaLRqQOJzHlhJfAO"   # Change to whatever secret key for your wia 
+wia.access_token = ""   # Change to whatever secret key for your wia 
 
 
 # Pressure Sensor
