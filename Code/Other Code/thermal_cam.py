@@ -11,7 +11,7 @@ from colour import Color
 from wia import Wia
 
 wia = Wia()
-wia.access_token = "d_sk_gcivxeyYB2F3ZjT88GszHkt6" #Access token
+wia.access_token = "" #Access token
 
 #low range of the sensor (this will be blue on the screen)
 MINTEMP = 0
